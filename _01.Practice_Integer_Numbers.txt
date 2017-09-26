@@ -10,7 +10,7 @@ namespace _01.Practice_Integer_Numbers
     {
         static void Main(string[] args)
         {
-            sbyte num1 = -100;
+            var num1 = -100;
             byte num2 = 128;
             short num3 = 3540;
             ushort num4 = 64876;
