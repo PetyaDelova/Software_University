@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\Visual Studio 2017\Projects\03_Data_Types_And_Variables_Excrs\09. Reverse Characters\bin\Debug\_09.Reverse_Characters.exe.config
+C:\Users\acer\Documents\Visual Studio 2017\Projects\03_Data_Types_And_Variables_Excrs\09. Reverse Characters\bin\Debug\_09.Reverse_Characters.exe
+C:\Users\acer\Documents\Visual Studio 2017\Projects\03_Data_Types_And_Variables_Excrs\09. Reverse Characters\bin\Debug\_09.Reverse_Characters.pdb
+C:\Users\acer\Documents\Visual Studio 2017\Projects\03_Data_Types_And_Variables_Excrs\09. Reverse Characters\obj\Debug\09. Reverse Characters.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2017\Projects\03_Data_Types_And_Variables_Excrs\09. Reverse Characters\obj\Debug\_09.Reverse_Characters.exe
+C:\Users\acer\Documents\Visual Studio 2017\Projects\03_Data_Types_And_Variables_Excrs\09. Reverse Characters\obj\Debug\_09.Reverse_Characters.pdb

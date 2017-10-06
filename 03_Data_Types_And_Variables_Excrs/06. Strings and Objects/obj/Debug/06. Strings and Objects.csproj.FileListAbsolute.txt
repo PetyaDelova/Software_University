@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.pdb
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\06. Strings and Objects\obj\Debug\06. Strings and Objects.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.exe
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.pdb

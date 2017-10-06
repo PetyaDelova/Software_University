@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.exe
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.pdb
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\04. Variable in Hexadecimal Format\obj\Debug\04. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\04. Variable in Hexadecimal Format\obj\Debug\_04.Variable_in_Hexadecimal_Format.exe
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\04. Variable in Hexadecimal Format\obj\Debug\_04.Variable_in_Hexadecimal_Format.pdb

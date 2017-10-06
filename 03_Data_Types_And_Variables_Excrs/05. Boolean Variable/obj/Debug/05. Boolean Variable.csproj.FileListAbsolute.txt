@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\05. Boolean Variable\obj\Debug\05. Boolean Variable.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

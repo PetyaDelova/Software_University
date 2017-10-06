@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\02. Practice Floating Point Numbers\bin\Debug\_02.Practice_Floating_Point_Numbers.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\02. Practice Floating Point Numbers\bin\Debug\_02.Practice_Floating_Point_Numbers.exe
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\02. Practice Floating Point Numbers\bin\Debug\_02.Practice_Floating_Point_Numbers.pdb
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\02. Practice Floating Point Numbers\obj\Debug\02. Practice Floating Point Numbers.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\02. Practice Floating Point Numbers\obj\Debug\_02.Practice_Floating_Point_Numbers.exe
+c:\users\acer\documents\visual studio 2017\Projects\03_Data_Types_And_Variables_Excrs\02. Practice Floating Point Numbers\obj\Debug\_02.Practice_Floating_Point_Numbers.pdb
